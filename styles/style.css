@@ -91,7 +91,7 @@
   justify-content: space-between;
 }
 
-.two-colums_brief {
+.two-colums__brief {
   margin: 0;
   width: 175px;
   line-height: 1.2;
@@ -100,7 +100,7 @@
   color: #2f80ed;
 }
 
-.two-colums_main-text {
+.two-colums__main-text {
   width: 80%;
   min-width: 784px;
   display: flex;
@@ -108,14 +108,14 @@
   justify-content: space-between;
 }
 
-.two-colums_paragraph {
+.two-colums__paragraph {
   margin: 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
 }
 
-.two-colums_spanaccent {
+.two-colums__spanaccent {
   line-height: 34px;
   font-size: 24px;
   font-weight: 600;
