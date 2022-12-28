@@ -78,6 +78,48 @@
   z-index: 0;
 }
 
+.description {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.two-colums {
+  width: 80%;
+  min-height: 330px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.two-colums_brief {
+  margin: 0;
+  width: 175px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color: #2f80ed;
+}
+
+.two-colums_main-text {
+  width: 80%;
+  min-width: 784px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.two-colums_paragraph {
+  margin: 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.two-colums_spanaccent {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: 600;
+}
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
