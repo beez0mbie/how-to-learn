@@ -22,6 +22,7 @@
   background-image: url(../images/logo_place_header.svg);
   position: absolute;
   top: 30px;
+  left: 64px;
   z-index: 2;
 }
 
@@ -53,8 +54,9 @@
 .header__subtitle {
   margin: 0;
   position: absolute;
-  max-width: 388px;
   bottom: 30px;
+  left: 64px;
+  max-width: 388px;
   line-height: 25px;
   font-size: 18px;
   font-weight: 400;
@@ -68,10 +70,10 @@
 
 .header__main-illustration {
   position: absolute;
-  width: 765px;
-  height: 608px;
   bottom: 0px;
   right: 0px;
+  width: 765px;
+  height: 608px;
   z-index: 1;
 }
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
