@@ -13,3 +13,7 @@
 3. В стилях используется анимация @keyframe
 4. Позиционирование элементов с помощью CSS Flex
 5. Видео помещено через тег iframe
+
+**GitHub Pages**
+
+[Проект о путешествии на gitHub](https://beez0mbie.github.io/how-to-learn/)
